@@ -24,7 +24,9 @@ collaborative robots, Industry 4.0 technologies, safety standards and challenges
 A 3D-printable desktop robotic arm designed in **Autodesk Fusion**, with joint limits, motion links and a
 pick-and-place **motion study**.
 
-![RA-4 robotic arm](Task2_Robotic_Arm_Simulation/Screenshots/RA4_home.png)
+![RA-4 DOF demo and pick-and-place simulation](Task2_Robotic_Arm_Simulation/Video/RA4_demo.gif)
+
+*Animated preview. Full-quality video (MP4, 39 s): [RA4_motion_study.mp4](Task2_Robotic_Arm_Simulation/Video/RA4_motion_study.mp4) – click “View raw” to download and play.*
 
 **Degrees of freedom: 4 DOF + gripper**
 
@@ -43,7 +45,7 @@ pick-and-place **motion study**.
 | ![Pick](Task2_Robotic_Arm_Simulation/Screenshots/RA4_pick.png) | ![Transfer](Task2_Robotic_Arm_Simulation/Screenshots/RA4_transfer.png) | ![Place](Task2_Robotic_Arm_Simulation/Screenshots/RA4_place.png) |
 
 📄 [Simulation report](Task2_Robotic_Arm_Simulation/CodeAlpha_Task2_RA4_Arm_Simulation.pdf) ·
-📁 [CAD files](Task2_Robotic_Arm_Simulation/CAD) · 🎬 [Simulation video – DOF demo + pick-and-place](Task2_Robotic_Arm_Simulation/Video/RA4_motion_study.mp4)
+📁 [CAD files](Task2_Robotic_Arm_Simulation/CAD) · 🎬 [Simulation video (MP4)](Task2_Robotic_Arm_Simulation/Video/RA4_motion_study.mp4)
 
 ## Task 3 – Automation System Design
 **Automated conveyor belt with sensor-based colour sorting** (Arduino Uno, IR sensors, TCS3200 colour sensor,
